@@ -1,0 +1,12 @@
+[submodule "1"]
+	path = 1
+	url = https://github.com/eugen-tkachenko/futureplc_test_1
+[submodule "2"]
+	path = 2
+	url = https://github.com/eugen-tkachenko/futureplc_test_2
+[submodule "3"]
+	path = 3
+	url = https://github.com/eugen-tkachenko/futureplc_test_3
+[submodule "4"]
+	path = 4
+	url = https://github.com/eugen-tkachenko/futureplc_test_4
