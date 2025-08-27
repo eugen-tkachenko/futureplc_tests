@@ -1,12 +1,16 @@
 [submodule "1"]
 	path = 1. AJAX Data Table (JS)
 	url = https://github.com/eugen-tkachenko/futureplc_test_1
+	branch = main
 [submodule "2"]
 	path = 2. FizzBuzz++
 	url = https://github.com/eugen-tkachenko/futureplc_test_2
+	branch = main
 [submodule "3"]
 	path = 3. Shapes (JS)
 	url = https://github.com/eugen-tkachenko/futureplc_test_3
+	branch = main
 [submodule "4"]
 	path = 4. Data PARSER (PHP)
 	url = https://github.com/eugen-tkachenko/futureplc_test_4
+	branch = main
