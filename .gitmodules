@@ -14,3 +14,7 @@
 	path = 4. Data PARSER (PHP)
 	url = https://github.com/eugen-tkachenko/futureplc_test_4
 	branch = main
+[submodule "5"]
+	path = futureplc_test_3
+	url = https://github.com/eugen-tkachenko/futureplc_test_3
+	branch = main
